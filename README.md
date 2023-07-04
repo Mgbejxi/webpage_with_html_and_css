@@ -1,0 +1,1 @@
+This repo is a personal practise on how designing a web page layout with buttons and images
